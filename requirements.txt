@@ -1,0 +1,19 @@
+# requirements.txt
+langgraph
+langchain
+langchain-google-genai  # Para Gemini
+langchain-openai  # Para embeddings (o cambia)
+langchain-chroma
+langchain_community
+chromadb
+pypdf  # Para cargar PDFs
+fastapi
+uvicorn
+twilio  # Para integración futura
+python-dotenv
+sentence-transformers
+langchain_huggingface
+python-multipart
+redis
+sqlalchemy
+psycopg2-binary  # Para PostgreSQL
