@@ -1,149 +1,149 @@
-1. **P: ¿Qué es "Comunidad Banorte"?**
+1. P: ¿Qué es "Comunidad Banorte"?
    R: Es una plataforma en la app Banorte para proponer, votar y financiar colectivamente proyectos sostenibles para tu colonia.
 
-2. **P: ¿Necesito ser cliente de Banorte para usarla?**
+2. P: ¿Necesito ser cliente de Banorte para usarla?
    R: Sí, es una función para clientes de Banorte, especialmente optimizada para quienes tienen su nómina con el banco.
 
-3. **P: ¿Tiene algún costo usar "Comunidad Banorte"?**
+3. P: ¿Tiene algún costo usar "Comunidad Banorte"?
    R: No, la plataforma es completamente gratuita.
 
-4. **P: ¿Cómo propongo un proyecto?**
+4. P: ¿Cómo propongo un proyecto?
    R: Vas a la pestaña "Explorar", presionas el botón `[+]`, y llenas el formulario con tu idea, meta y foto.
 
-5. **P: ¿Mi propuesta se publica de inmediato?**
+5. P: ¿Mi propuesta se publica de inmediato?
    R: No, primero pasa a la sección "En Votación" para que tu comunidad la apruebe.
 
-6. **P: ¿Quién puede votar por mi proyecto?**
+6. P: ¿Quién puede votar por mi proyecto?
    R: Solo los vecinos que estén registrados en tu misma colonia dentro de la app.
 
-7. **P: ¿Cómo gana un proyecto la votación?**
+7. P: ¿Cómo gana un proyecto la votación?
    R: Debe alcanzar una meta mínima de votos (ej. 100 votos) de vecinos de la colonia.
 
-8. **P: ¿Qué pasa cuando mi proyecto gana la votación?**
+8. P: ¿Qué pasa cuando mi proyecto gana la votación?
    R: Se aprueba y pasa automáticamente a la sección "En Fondeo", donde ya puede recibir dinero.
 
-9. **P: ¿Puedo ver proyectos de otras colonias?**
+9. P: ¿Puedo ver proyectos de otras colonias?
    R: No, la plataforma es hiper-local y te muestra solo el contenido relevante a la colonia que registraste en tu "Perfil".
 
-10. **P: ¿Cómo aporto dinero a un proyecto?**
+10. P: ¿Cómo aporto dinero a un proyecto?
     R: En "Explorar", busca un proyecto "En Fondeo" y presiona "Aportar".
 
-11. **P: ¿Qué formas de pago hay?**
+11. P: ¿Qué formas de pago hay?
     R: Puedes hacer una "Aportación Única" (pago inmediato) o programar un "Apartado de Nómina".
 
-12. **P: ¿Qué es el "Apartado de Nómina"?**
+12. P: ¿Qué es el "Apartado de Nómina"?
     R: Es una instrucción para que Banorte separe automáticamente una cantidad fija (ej. $50) de tu pago de nómina quincenal y la destine al proyecto.
 
-13. **P: ¿Puedo programar un Apartado de Nómina si no tengo mi nómina en Banorte?**
+13. P: ¿Puedo programar un Apartado de Nómina si no tengo mi nómina en Banorte?
     R: No, esta función requiere tener una cuenta de nómina activa con Banorte.
 
-14. **P: ¿Dónde configuro mis "Apartados de Nómina"?**
+14. P: ¿Dónde configuro mis "Apartados de Nómina"?
     R: La configuración inicial se hace al "Aportar". La gestión (pausar, editar) se hace en la pestaña "Mi Impacto".
 
-15. **P: ¿Puedo cancelar un "Apartado de Nómina"?**
+15. P: ¿Puedo cancelar un "Apartado de Nómina"?
     R: Sí, en la pestaña "Mi Impacto" puedes pausar, reanudar o cancelar tus apartados en cualquier momento.
 
-16. **P: ¿Puedo cambiar el monto de mi Apartado?**
+16. P: ¿Puedo cambiar el monto de mi Apartado?
     R: Sí, puedes editar el monto de tu apartado quincenal desde la pestaña "Mi Impacto".
 
-17. **P: ¿Es seguro el dinero que aporto?**
+17. P: ¿Es seguro el dinero que aporto?
     R: Sí, es 100% seguro. El dinero no va a la cuenta personal de ningún vecino.
 
-18. **P: ¿Dónde va el dinero de las aportaciones?**
+18. P: ¿Dónde va el dinero de las aportaciones?
     R: Se guarda en una cuenta de custodia especial llamada "Banorte Escrow", gestionada por el banco.
 
-19. **P: ¿Quién recibe el dinero al final?**
-    R: Banorte paga **directamente** desde la cuenta Escrow al proveedor (la empresa de luminarias, etc.) una vez que el proyecto está 100% fondeado.
+19. P: ¿Quién recibe el dinero al final?
+    R: Banorte paga directamente desde la cuenta Escrow al proveedor (la empresa de luminarias, etc.) una vez que el proyecto está 100% fondeado.
 
-20. **P: ¿Cómo sé que el pago al proveedor se hizo?**
+20. P: ¿Cómo sé que el pago al proveedor se hizo?
     R: Recibirás una notificación y verás una tarjeta de "Pago Liberado" en tu *feed* de "Inicio", confirmando la transacción.
 
-21. **P: ¿El vecino que propuso el proyecto puede tocar el dinero?**
+21. P: ¿El vecino que propuso el proyecto puede tocar el dinero?
     R: No, el proponente nunca tiene acceso a los fondos recaudados.
 
-22. **P: ¿Qué es la pestaña "Inicio"?**
+22. P: ¿Qué es la pestaña "Inicio"?
     R: Es tu *feed* de noticias personal. Te muestra actualizaciones en tiempo real solo de los proyectos que sigues, votaste o fondeaste.
 
-23. **P: ¿Qué tipo de noticias veré en "Inicio"?**
+23. P: ¿Qué tipo de noticias veré en "Inicio"?
     R: Hitos como "¡Meta alcanzada!", "¡Votación exitosa!", "Pago Liberado" y "¡Proyecto Completado!".
 
-24. **P: ¿Qué es la pestaña "Explorar"?**
+24. P: ¿Qué es la pestaña "Explorar"?
     R: Es el centro comunitario. Aquí ves los proyectos "En Votación" (para votar) y los proyectos "En Fondeo" (para aportar dinero).
 
-25. **P: ¿Qué es la pestaña "Mi Impacto"?**
+25. P: ¿Qué es la pestaña "Mi Impacto"?
     R: Es tu *dashboard* financiero personal. Aquí gestionas tus "Apartados de Nómina" y ves tus estadísticas de aportación.
 
-26. **P: ¿Qué es la pestaña "Perfil"?**
+26. P: ¿Qué es la pestaña "Perfil"?
     R: Es donde configuras tus datos, como tu nombre y, lo más importante, tu `colonia` para filtrar los proyectos.
 
-27. **P: ¿Qué pasa si un proyecto no junta el dinero?**
+27. P: ¿Qué pasa si un proyecto no junta el dinero?
     R: El proyecto se marca como "No financiado" y los "Apartados de Nómina" vinculados se pausan automáticamente.
 
-28. **P: ¿Cuántos proyectos puedo proponer?**
+28. P: ¿Cuántos proyectos puedo proponer?
     R: Puedes proponer los proyectos que consideres necesarios, pero cada uno debe pasar por el proceso de votación comunitaria.
 
-29. **P: ¿Puedo votar por mi propio proyecto?**
+29. P: ¿Puedo votar por mi propio proyecto?
     R: Sí, puedes emitir un voto por tu propia propuesta.
 
-30. **P: ¿Puedo aportar a múltiples proyectos a la vez?**
+30. P: ¿Puedo aportar a múltiples proyectos a la vez?
     R: Sí, puedes tener múltiples "Apartados de Nómina" activos, uno para cada proyecto que quieras apoyar.
 
-31. **P: ¿Qué tipo de proyectos puedo proponer?**
+31. P: ¿Qué tipo de proyectos puedo proponer?
     R: Proyectos enfocados en sostenibilidad y eficiencia para tu colonia: paneles solares, sistemas de captación de agua, centros de reciclaje, luminarias LED, etc.
 
-32. **P: ¿Qué es "Banorte Escrow"?**
+32. P: ¿Qué es "Banorte Escrow"?
     R: Es el sistema de cuenta de custodia de Banorte que retiene los fondos de manera segura hasta que el proyecto está listo para pagar al proveedor.
 
-33. **P: ¿El *feed* de "Inicio" es público?**
+33. P: ¿El *feed* de "Inicio" es público?
     R: No, es un *feed* privado y personalizado solo con las actualizaciones de los proyectos que a ti te importan.
 
-34. **P: ¿Cómo sabe la app cuál es mi colonia?**
+34. P: ¿Cómo sabe la app cuál es mi colonia?
     R: Tú la configuras manualmente en tu "Perfil". Esto es esencial para que la app funcione.
 
-35. **P: ¿Qué pasa cuando un proyecto se completa?**
+35. P: ¿Qué pasa cuando un proyecto se completa?
     R: Recibirás una noticia en tu *feed* de "Inicio" (usualmente con fotos) y el proyecto se moverá a tu historial de "Proyectos Completados" en "Mi Impacto".
 
-36. **P: ¿"Mi Impacto" y "Inicio" muestran lo mismo?**
+36. P: ¿"Mi Impacto" y "Inicio" muestran lo mismo?
     R: No. "Inicio" muestra noticias sociales y de progreso (*feed*). "Mi Impacto" muestra tus finanzas y gestión de apartados (*dashboard*).
 
-37. **P: ¿Puedo hacer una aportación anónima?**
+37. P: ¿Puedo hacer una aportación anónima?
     R: (La lógica de negocio actual no lo especifica, pero una respuesta estándar sería:) Todas las aportaciones están ligadas a tu perfil de Banorte para garantizar la transparencia interna y el funcionamiento de los apartados.
 
-38. **P: ¿Qué necesito para proponer un proyecto?**
+38. P: ¿Qué necesito para proponer un proyecto?
     R: Una idea clara, una descripción, una meta financiera (costo estimado) y una foto o imagen representativa.
 
-39. **P: ¿Qué es un "proyecto ganador"?**
+39. P: ¿Qué es un "proyecto ganador"?
     R: Es un proyecto que superó la meta de votos de la comunidad y pasó a la fase "En Fondeo".
 
-40. **P: ¿Puedo editar mi propuesta después de enviarla?**
+40. P: ¿Puedo editar mi propuesta después de enviarla?
     R: No, una vez que un proyecto está "En Votación", no se puede editar para mantener la transparencia del proceso.
 
-41. **P: ¿Por qué es importante el "Apartado de Nómina"?**
+41. P: ¿Por qué es importante el "Apartado de Nómina"?
     R: Porque permite financiar grandes proyectos con pequeñas contribuciones recurrentes, haciéndolo accesible para todos los vecinos.
 
-42. **P: ¿"Comunidad Banorte" funciona para empresas?**
+42. P: ¿"Comunidad Banorte" funciona para empresas?
     R: No, actualmente es una plataforma diseñada para clientes individuales (ciudadanos) y sus comunidades vecinales.
 
-43. **P: ¿Cómo se verifica al proveedor al que se le paga?**
+43. P: ¿Cómo se verifica al proveedor al que se le paga?
     R: (La lógica de negocio actual no lo detalla, pero una respuesta estándar sería:) Banorte realiza una validación del proveedor (empresa) propuesto antes de liberar los fondos del Escrow.
 
-44. **P: ¿La app me recuerda cuándo se cobra mi apartado?**
+44. P: ¿La app me recuerda cuándo se cobra mi apartado?
     R: Sí, recibirás una notificación en tu *feed* de "Inicio" cada vez que tu apartado de nómina sea aplicado exitosamente a un proyecto.
 
-45. **P: ¿Cuántas veces puedo votar por un proyecto?**
+45. P: ¿Cuántas veces puedo votar por un proyecto?
     R: Solo puedes votar una vez por cada proyecto.
 
-46. **P: ¿Qué gano yo al aportar?**
+46. P: ¿Qué gano yo al aportar?
     R: Ganas la mejora directa de tu entorno (un parque más seguro, una colonia más limpia) y la satisfacción de lograrlo en comunidad.
 
-47. **P: ¿Dónde veo cuánto dinero ha juntado un proyecto?**
+47. P: ¿Dónde veo cuánto dinero ha juntado un proyecto?
     R: En la pestaña "Explorar", cada proyecto "En Fondeo" tiene una barra de progreso visible con la meta y el monto actual recaudado.
 
-48. **P: ¿Puedo usar "Comunidad Banorte" si no estoy en México?**
+48. P: ¿Puedo usar "Comunidad Banorte" si no estoy en México?
     R: La plataforma está diseñada para colonias y clientes dentro de México.
 
-49. **P: ¿El banco se queda con alguna comisión?**
+49. P: ¿El banco se queda con alguna comisión?
     R: No, Banorte ofrece esta plataforma como un servicio de valor agregado sin comisiones sobre las aportaciones.
 
-50. **P: ¿Qué pasa si cambio de cuenta de nómina?**
+50. P: ¿Qué pasa si cambio de cuenta de nómina?
     R: Deberás actualizar tu cuenta vinculada en el "Perfil" y reconfigurar tus "Apartados de Nómina" para que sigan funcionando.

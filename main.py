@@ -11,7 +11,7 @@ if not api_key:
     raise ValueError("Configura GEMINI_API_KEY en .env")
 
 # Asume tu documento FAQ (cambia el path)
-document_path = "faqs.pdf"  # O 'faqs.txt'; cárgalo aquí
+document_path = "faqs.txt"  # O 'faqs.txt'; cárgalo aquí
 retriever = setup_chroma(document_path)
 
 graph = build_graph(retriever, api_key)
